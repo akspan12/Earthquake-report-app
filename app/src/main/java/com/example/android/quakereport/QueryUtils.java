@@ -31,8 +31,8 @@ public final class QueryUtils {
 
 
 
-    private QueryUtils() {
-    }
+        private QueryUtils() {
+        }
 
 
     private static List<Earthquake> extractFeatureFromJson(String earthquakeJSON) {
